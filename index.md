@@ -30,8 +30,11 @@ Learn more about my university: [UC San Diego](https://ucsd.edu)
 - [ ] COGS 108
 - [ ] SYN 100
 
-## 📷 Pictures
-![Me at Mad Hatter's Castle](./madhatter.jpg)
+## 📸 Screenshots
+### Terminal Git Commands
+![Git Command Line](./screenshots/CSE110_Lab1(1).png)
+### VS Code Staged Commit
+![VS Code Staged Commit](./screenshots/CSE110_Lab1(2).png)
 
 ## 💬 Quote
 > "All that glitters is not gold."
@@ -40,3 +43,4 @@ Learn more about my university: [UC San Diego](https://ucsd.edu)
 ```python
 def hello_world():
     print("Hello, GitHub Pages!")
+```
