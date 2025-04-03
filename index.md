@@ -1,3 +1,8 @@
+---
+layout: default
+title: Lavin Ma
+---
+
 # 👋 Hi, I'm Lavin Ma!
 
 Welcome to my GitHub User Page.
