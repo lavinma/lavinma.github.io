@@ -1,16 +1,11 @@
-⸻
+# Lavin Ma
 
-layout: default
-title: Lavin Ma
+**UC San Diego Mathematics–Computer Science Graduate**  
+**Incoming UCLA Master of Engineering (Data Science)**
 
-Lavin Ma
+---
 
-UC San Diego Mathematics–Computer Science Graduate
-Incoming UCLA Master of Engineering (Data Science)
-
-⸻
-
-About Me
+## About Me
 
 I’m interested in data science, analytics, machine learning, and building tools that help people make better decisions with data.
 
@@ -18,119 +13,98 @@ I recently completed my B.S. in Mathematics–Computer Science at UC San Diego a
 
 My current focus is developing practical data science and software engineering skills through portfolio projects, analytics research, and applied machine learning.
 
-⸻
+---
 
-Featured Projects
+## Featured Projects
 
-Career Market Analytics
+### [Career Market Analytics](https://github.com/lavinma/career-market-analytics)
 
 A data analytics project exploring labor market trends across Data Science and Finance/Economics careers.
 
-Key topics:
+**Key topics:**
 
-* Salary analysis
-* Skill demand analysis
-* Experience-level trends
-* Cross-industry comparisons
-* Data cleaning and exploratory data analysis
+- Salary analysis
+- Skill demand analysis
+- Experience-level trends
+- Cross-industry comparisons
+- Data cleaning and exploratory data analysis
 
-Tools: Python, pandas, NumPy, Matplotlib, Jupyter Notebook
+**Tools:** Python, pandas, NumPy, Matplotlib, Jupyter Notebook
 
-GitHub Repository:
+---
 
-* https://github.com/lavinma/career-market-analytics
-
-⸻
-
-Data Science Job Market Analysis
+### [Data Science Job Market Analysis](https://github.com/lavinma/data-science-job-market-analysis)
 
 Analysis of 944 Data Science job postings from 2025.
 
-Topics explored:
+**Topics explored:**
 
-* Most requested skills
-* Salary by seniority level
-* SQL and salary relationships
-* High-paying technical skills
-* Job market trends
+- Most requested skills
+- Salary by seniority level
+- SQL and salary relationships
+- High-paying technical skills
+- Job market trends
 
-Tools: Python, pandas, Matplotlib
+**Tools:** Python, pandas, Matplotlib
 
-GitHub Repository:
+---
 
-* https://github.com/lavinma/data-science-job-market-analysis
+## Technical Skills
 
-⸻
+### Programming
 
-Technical Skills
+- Python
+- Java
+- C++
+- SQL
 
-Programming
+### Data Science
 
-* Python
-* Java
-* C++
-* SQL
+- pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+- Data Cleaning
+- Exploratory Data Analysis
 
-Data Science
+### Development Tools
 
-* pandas
-* NumPy
-* Matplotlib
-* Jupyter Notebook
-* Data Cleaning
-* Exploratory Data Analysis
+- Git
+- GitHub
+- VS Code
 
-Development Tools
+---
 
-* Git
-* GitHub
-* VS Code
-
-⸻
-
-Current Learning Goals
+## Current Learning Goals
 
 As I prepare for graduate study at UCLA, I am focusing on:
 
-* SQL
-* Data Engineering Fundamentals
-* Machine Learning
-* Cloud Computing
-* Applied Analytics
-* Building Production-Ready Projects
+- SQL
+- Data Engineering Fundamentals
+- Machine Learning
+- Cloud Computing
+- Applied Analytics
+- Building Production-Ready Projects
 
-⸻
+---
 
-Education
+## Education
 
-UC San Diego
+### UC San Diego
 
-B.S. Mathematics–Computer Science
-
+**B.S. Mathematics–Computer Science**  
 Graduated 2026
 
-UCLA
+### UCLA
 
-Master of Engineering (Data Science)
-
+**Master of Engineering, Data Science**  
 Expected Graduation: 2027
 
-⸻
+---
 
-Links
+## Links
 
-GitHub:
-
-* https://github.com/lavinma
-
-Portfolio:
-
-* https://lavinma.github.io
-
-LinkedIn:
-
-* www.linkedin.com/in/lavinma
-
-Email:
-
-* lavin.ma18@gmail.com
+- [GitHub](https://github.com/lavinma)
+- [Portfolio](https://lavinma.github.io)
+- [LinkedIn](https://www.linkedin.com/in/lavinma)
+- [Email](mailto:lavin.ma18@gmail.com)
