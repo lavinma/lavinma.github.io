@@ -33,7 +33,7 @@ A data analytics project exploring labor market trends across Data Science and F
 
 ---
 
-### [Data Science Job Market Analysis](https://github.com/lavinma/data-science-job-market-analysis)
+### [Data Science Job Market Analysis](https://github.com/lavinma/career-market-analytics/blob/main/notebooks/01_ds_job_market_analysis.ipynb)
 
 Analysis of 944 Data Science job postings from 2025.
 
