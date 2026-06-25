@@ -1,73 +1,88 @@
 # Lavin Ma
 
-**UC San Diego Mathematics–Computer Science Graduate**  
-**Incoming UCLA Master of Engineering (Data Science)**
+**Incoming UCLA Master of Engineering (Data Science)**  
+**B.S. Mathematics–Computer Science, University of California San Diego**
 
 ---
 
 ## About Me
 
-I’m interested in data science, analytics, machine learning, and building tools that help people make better decisions with data.
+I'm an aspiring data scientist and machine learning engineer interested in applying data-driven methods to solve real-world problems.
 
-I recently completed my B.S. in Mathematics–Computer Science at UC San Diego and will begin the UCLA Master of Engineering program in Data Science.
+My interests include machine learning, data analytics, predictive modeling, and building software that helps people make better decisions. I enjoy working across the entire data science workflow—from collecting and cleaning data to building models and communicating insights through visualization.
 
-My current focus is developing practical data science and software engineering skills through portfolio projects, analytics research, and applied machine learning.
+As I begin my M.Eng. in Data Science at UCLA, I am continuing to develop a portfolio of projects that demonstrate practical analytics, machine learning, and software engineering skills.
 
 ---
 
 ## Featured Projects
 
-### [Career Market Analytics](https://github.com/lavinma/career-market-analytics)
+### 🚀 Career Market Analytics
 
-A data analytics project exploring labor market trends across Data Science and Finance/Economics careers.
+**GitHub:**  
+https://github.com/lavinma/career-market-analytics
 
-**Key topics:**
+A data analytics project exploring labor market trends across Data Science and Finance/Economics careers using real-world job posting data.
 
-- Salary analysis
+**Highlights**
+
+- Salary trend analysis
+- Experience-level comparisons
 - Skill demand analysis
-- Experience-level trends
 - Cross-industry comparisons
-- Data cleaning and exploratory data analysis
+- Exploratory data analysis
+- Data visualization
 
-**Tools:** Python, pandas, NumPy, Matplotlib, Jupyter Notebook
+**Technologies**
+
+Python • pandas • NumPy • Matplotlib • Jupyter Notebook
 
 ---
 
-### [Data Science Job Market Analysis](https://github.com/lavinma/career-market-analytics/blob/main/notebooks/01_ds_job_market_analysis.ipynb)
+### 🤖 Salary Prediction ML
 
-Analysis of 944 Data Science job postings from 2025.
+**GitHub:**  
+https://github.com/lavinma/salary-prediction-ml
 
-**Topics explored:**
+A machine learning project that predicts salaries from job posting characteristics using regression models and feature engineering.
 
-- Most requested skills
-- Salary by seniority level
-- SQL and salary relationships
-- High-paying technical skills
-- Job market trends
+**Highlights**
 
-**Tools:** Python, pandas, Matplotlib
+- Feature engineering
+- Data preprocessing
+- Regression modeling
+- Model evaluation
+- Feature importance analysis
+- Salary prediction
+
+**Technologies**
+
+Python • scikit-learn • pandas • NumPy • Matplotlib
 
 ---
 
 ## Technical Skills
 
-### Programming
+### Programming Languages
 
 - Python
+- SQL
 - Java
 - C++
-- SQL
 
-### Data Science
+### Data Science & Machine Learning
 
 - pandas
 - NumPy
+- scikit-learn
 - Matplotlib
 - Jupyter Notebook
 - Data Cleaning
 - Exploratory Data Analysis
+- Feature Engineering
+- Machine Learning
 
-### Development Tools
+### Developer Tools
 
 - Git
 - GitHub
@@ -75,36 +90,36 @@ Analysis of 944 Data Science job postings from 2025.
 
 ---
 
-## Current Learning Goals
+## Currently Learning
 
-As I prepare for graduate study at UCLA, I am focusing on:
+As I prepare for graduate study at UCLA, I'm currently focusing on:
 
-- SQL
-- Data Engineering Fundamentals
 - Machine Learning
+- Data Engineering
 - Cloud Computing
-- Applied Analytics
-- Building Production-Ready Projects
+- Production ML Workflows
+- Large Language Models (LLMs)
+- MLOps Fundamentals
 
 ---
 
 ## Education
 
-### UC San Diego
+### University of California, Los Angeles
+
+**Master of Engineering (Data Science)**  
+Expected Graduation: 2027
+
+### University of California San Diego
 
 **B.S. Mathematics–Computer Science**  
 Graduated 2026
 
-### UCLA
-
-**Master of Engineering, Data Science**  
-Expected Graduation: 2027
-
 ---
 
-## Links
+## Connect
 
-- [GitHub](https://github.com/lavinma)
-- [Portfolio](https://lavinma.github.io)
-- [LinkedIn](https://www.linkedin.com/in/lavinma)
-- [Email](mailto:lavin.ma18@gmail.com)
+- **GitHub:** https://github.com/lavinma
+- **Portfolio:** https://lavinma.github.io
+- **LinkedIn:** https://www.linkedin.com/in/lavinma
+- **Email:** lavin.ma18@gmail.com
